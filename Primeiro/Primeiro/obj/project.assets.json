@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\walte\\Documents\\estudos\\estudos\\Primeiro\\Primeiro\\Primeiro.csproj",
-      "projectName": "Primeiro",
-      "projectPath": "C:\\Users\\walte\\Documents\\estudos\\estudos\\Primeiro\\Primeiro\\Primeiro.csproj",
+      "projectUniqueName": "C:\\Users\\walte\\Documents\\estudos\\estudos\\Primeiro\\Primeiro\\PrimeiroProjeto.csproj",
+      "projectName": "PrimeiroProjeto",
+      "projectPath": "C:\\Users\\walte\\Documents\\estudos\\estudos\\Primeiro\\Primeiro\\PrimeiroProjeto.csproj",
       "packagesPath": "C:\\Users\\walte\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\walte\\Documents\\estudos\\estudos\\Primeiro\\Primeiro\\obj\\",
       "projectStyle": "PackageReference",
