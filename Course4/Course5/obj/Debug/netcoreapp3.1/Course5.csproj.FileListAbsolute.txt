@@ -1,0 +1,13 @@
+C:\Users\walte\Documents\estudos\estudos\Course4\Course5\bin\Debug\netcoreapp3.1\Course5.exe
+C:\Users\walte\Documents\estudos\estudos\Course4\Course5\bin\Debug\netcoreapp3.1\Course5.deps.json
+C:\Users\walte\Documents\estudos\estudos\Course4\Course5\bin\Debug\netcoreapp3.1\Course5.runtimeconfig.json
+C:\Users\walte\Documents\estudos\estudos\Course4\Course5\bin\Debug\netcoreapp3.1\Course5.runtimeconfig.dev.json
+C:\Users\walte\Documents\estudos\estudos\Course4\Course5\bin\Debug\netcoreapp3.1\Course5.dll
+C:\Users\walte\Documents\estudos\estudos\Course4\Course5\bin\Debug\netcoreapp3.1\Course5.pdb
+C:\Users\walte\Documents\estudos\estudos\Course4\Course5\obj\Debug\netcoreapp3.1\Course5.csprojAssemblyReference.cache
+C:\Users\walte\Documents\estudos\estudos\Course4\Course5\obj\Debug\netcoreapp3.1\Course5.AssemblyInfoInputs.cache
+C:\Users\walte\Documents\estudos\estudos\Course4\Course5\obj\Debug\netcoreapp3.1\Course5.AssemblyInfo.cs
+C:\Users\walte\Documents\estudos\estudos\Course4\Course5\obj\Debug\netcoreapp3.1\Course5.csproj.CoreCompileInputs.cache
+C:\Users\walte\Documents\estudos\estudos\Course4\Course5\obj\Debug\netcoreapp3.1\Course5.dll
+C:\Users\walte\Documents\estudos\estudos\Course4\Course5\obj\Debug\netcoreapp3.1\Course5.pdb
+C:\Users\walte\Documents\estudos\estudos\Course4\Course5\obj\Debug\netcoreapp3.1\Course5.genruntimeconfig.cache
