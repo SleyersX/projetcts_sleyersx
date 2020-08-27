@@ -1,0 +1,13 @@
+E:\Repositorios\GitHub\projetcts_sleyersx\Course8\Course8\bin\Debug\netcoreapp3.1\Course8.exe
+E:\Repositorios\GitHub\projetcts_sleyersx\Course8\Course8\bin\Debug\netcoreapp3.1\Course8.deps.json
+E:\Repositorios\GitHub\projetcts_sleyersx\Course8\Course8\bin\Debug\netcoreapp3.1\Course8.runtimeconfig.json
+E:\Repositorios\GitHub\projetcts_sleyersx\Course8\Course8\bin\Debug\netcoreapp3.1\Course8.runtimeconfig.dev.json
+E:\Repositorios\GitHub\projetcts_sleyersx\Course8\Course8\bin\Debug\netcoreapp3.1\Course8.dll
+E:\Repositorios\GitHub\projetcts_sleyersx\Course8\Course8\bin\Debug\netcoreapp3.1\Course8.pdb
+E:\Repositorios\GitHub\projetcts_sleyersx\Course8\Course8\obj\Debug\netcoreapp3.1\Course8.csprojAssemblyReference.cache
+E:\Repositorios\GitHub\projetcts_sleyersx\Course8\Course8\obj\Debug\netcoreapp3.1\Course8.AssemblyInfoInputs.cache
+E:\Repositorios\GitHub\projetcts_sleyersx\Course8\Course8\obj\Debug\netcoreapp3.1\Course8.AssemblyInfo.cs
+E:\Repositorios\GitHub\projetcts_sleyersx\Course8\Course8\obj\Debug\netcoreapp3.1\Course8.csproj.CoreCompileInputs.cache
+E:\Repositorios\GitHub\projetcts_sleyersx\Course8\Course8\obj\Debug\netcoreapp3.1\Course8.dll
+E:\Repositorios\GitHub\projetcts_sleyersx\Course8\Course8\obj\Debug\netcoreapp3.1\Course8.pdb
+E:\Repositorios\GitHub\projetcts_sleyersx\Course8\Course8\obj\Debug\netcoreapp3.1\Course8.genruntimeconfig.cache
