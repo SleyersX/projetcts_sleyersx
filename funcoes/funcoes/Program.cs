@@ -15,13 +15,15 @@ namespace funcoes {
         }
 
         static int Maior(int a, int b, int c) {
+            int m;
             if (a > b && a > c) {
-                return a;
+                m = a;
             } else if (b > c) {
-                return b;
+                m = b;
             } else {
-                return c;
+                m = c;
             }
+            return m;
         }
     }
 }
