@@ -1,0 +1,12 @@
+E:\Repositorios\GitHub\projetcts_sleyersx\exercicio-2-objetos\exercicio-2-objetos\bin\Debug\netcoreapp3.1\exercicio-2-objetos.exe
+E:\Repositorios\GitHub\projetcts_sleyersx\exercicio-2-objetos\exercicio-2-objetos\bin\Debug\netcoreapp3.1\exercicio-2-objetos.deps.json
+E:\Repositorios\GitHub\projetcts_sleyersx\exercicio-2-objetos\exercicio-2-objetos\bin\Debug\netcoreapp3.1\exercicio-2-objetos.runtimeconfig.json
+E:\Repositorios\GitHub\projetcts_sleyersx\exercicio-2-objetos\exercicio-2-objetos\bin\Debug\netcoreapp3.1\exercicio-2-objetos.runtimeconfig.dev.json
+E:\Repositorios\GitHub\projetcts_sleyersx\exercicio-2-objetos\exercicio-2-objetos\bin\Debug\netcoreapp3.1\exercicio-2-objetos.dll
+E:\Repositorios\GitHub\projetcts_sleyersx\exercicio-2-objetos\exercicio-2-objetos\bin\Debug\netcoreapp3.1\exercicio-2-objetos.pdb
+E:\Repositorios\GitHub\projetcts_sleyersx\exercicio-2-objetos\exercicio-2-objetos\obj\Debug\netcoreapp3.1\exercicio-2-objetos.AssemblyInfoInputs.cache
+E:\Repositorios\GitHub\projetcts_sleyersx\exercicio-2-objetos\exercicio-2-objetos\obj\Debug\netcoreapp3.1\exercicio-2-objetos.AssemblyInfo.cs
+E:\Repositorios\GitHub\projetcts_sleyersx\exercicio-2-objetos\exercicio-2-objetos\obj\Debug\netcoreapp3.1\exercicio-2-objetos.csproj.CoreCompileInputs.cache
+E:\Repositorios\GitHub\projetcts_sleyersx\exercicio-2-objetos\exercicio-2-objetos\obj\Debug\netcoreapp3.1\exercicio-2-objetos.dll
+E:\Repositorios\GitHub\projetcts_sleyersx\exercicio-2-objetos\exercicio-2-objetos\obj\Debug\netcoreapp3.1\exercicio-2-objetos.pdb
+E:\Repositorios\GitHub\projetcts_sleyersx\exercicio-2-objetos\exercicio-2-objetos\obj\Debug\netcoreapp3.1\exercicio-2-objetos.genruntimeconfig.cache

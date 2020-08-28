@@ -1,0 +1,13 @@
+E:\Repositorios\GitHub\projetcts_sleyersx\Problema1\Problema1\bin\Debug\netcoreapp3.1\Problema1.exe
+E:\Repositorios\GitHub\projetcts_sleyersx\Problema1\Problema1\bin\Debug\netcoreapp3.1\Problema1.deps.json
+E:\Repositorios\GitHub\projetcts_sleyersx\Problema1\Problema1\bin\Debug\netcoreapp3.1\Problema1.runtimeconfig.json
+E:\Repositorios\GitHub\projetcts_sleyersx\Problema1\Problema1\bin\Debug\netcoreapp3.1\Problema1.runtimeconfig.dev.json
+E:\Repositorios\GitHub\projetcts_sleyersx\Problema1\Problema1\bin\Debug\netcoreapp3.1\Problema1.dll
+E:\Repositorios\GitHub\projetcts_sleyersx\Problema1\Problema1\bin\Debug\netcoreapp3.1\Problema1.pdb
+E:\Repositorios\GitHub\projetcts_sleyersx\Problema1\Problema1\obj\Debug\netcoreapp3.1\Problema1.csprojAssemblyReference.cache
+E:\Repositorios\GitHub\projetcts_sleyersx\Problema1\Problema1\obj\Debug\netcoreapp3.1\Problema1.AssemblyInfoInputs.cache
+E:\Repositorios\GitHub\projetcts_sleyersx\Problema1\Problema1\obj\Debug\netcoreapp3.1\Problema1.AssemblyInfo.cs
+E:\Repositorios\GitHub\projetcts_sleyersx\Problema1\Problema1\obj\Debug\netcoreapp3.1\Problema1.csproj.CoreCompileInputs.cache
+E:\Repositorios\GitHub\projetcts_sleyersx\Problema1\Problema1\obj\Debug\netcoreapp3.1\Problema1.dll
+E:\Repositorios\GitHub\projetcts_sleyersx\Problema1\Problema1\obj\Debug\netcoreapp3.1\Problema1.pdb
+E:\Repositorios\GitHub\projetcts_sleyersx\Problema1\Problema1\obj\Debug\netcoreapp3.1\Problema1.genruntimeconfig.cache
