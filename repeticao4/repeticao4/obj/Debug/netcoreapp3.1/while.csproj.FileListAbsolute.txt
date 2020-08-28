@@ -1,0 +1,12 @@
+E:\Repositorios\GitHub\projetcts_sleyersx\repeticao4\repeticao4\bin\Debug\netcoreapp3.1\while.exe
+E:\Repositorios\GitHub\projetcts_sleyersx\repeticao4\repeticao4\bin\Debug\netcoreapp3.1\while.deps.json
+E:\Repositorios\GitHub\projetcts_sleyersx\repeticao4\repeticao4\bin\Debug\netcoreapp3.1\while.runtimeconfig.json
+E:\Repositorios\GitHub\projetcts_sleyersx\repeticao4\repeticao4\bin\Debug\netcoreapp3.1\while.runtimeconfig.dev.json
+E:\Repositorios\GitHub\projetcts_sleyersx\repeticao4\repeticao4\bin\Debug\netcoreapp3.1\while.dll
+E:\Repositorios\GitHub\projetcts_sleyersx\repeticao4\repeticao4\bin\Debug\netcoreapp3.1\while.pdb
+E:\Repositorios\GitHub\projetcts_sleyersx\repeticao4\repeticao4\obj\Debug\netcoreapp3.1\while.AssemblyInfoInputs.cache
+E:\Repositorios\GitHub\projetcts_sleyersx\repeticao4\repeticao4\obj\Debug\netcoreapp3.1\while.AssemblyInfo.cs
+E:\Repositorios\GitHub\projetcts_sleyersx\repeticao4\repeticao4\obj\Debug\netcoreapp3.1\while.csproj.CoreCompileInputs.cache
+E:\Repositorios\GitHub\projetcts_sleyersx\repeticao4\repeticao4\obj\Debug\netcoreapp3.1\while.dll
+E:\Repositorios\GitHub\projetcts_sleyersx\repeticao4\repeticao4\obj\Debug\netcoreapp3.1\while.pdb
+E:\Repositorios\GitHub\projetcts_sleyersx\repeticao4\repeticao4\obj\Debug\netcoreapp3.1\while.genruntimeconfig.cache

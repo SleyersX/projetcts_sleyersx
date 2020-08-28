@@ -1,0 +1,13 @@
+E:\Repositorios\GitHub\projetcts_sleyersx\repeticao4\repeticao4\bin\Debug\netcoreapp3.1\repeticao4.exe
+E:\Repositorios\GitHub\projetcts_sleyersx\repeticao4\repeticao4\bin\Debug\netcoreapp3.1\repeticao4.deps.json
+E:\Repositorios\GitHub\projetcts_sleyersx\repeticao4\repeticao4\bin\Debug\netcoreapp3.1\repeticao4.runtimeconfig.json
+E:\Repositorios\GitHub\projetcts_sleyersx\repeticao4\repeticao4\bin\Debug\netcoreapp3.1\repeticao4.runtimeconfig.dev.json
+E:\Repositorios\GitHub\projetcts_sleyersx\repeticao4\repeticao4\bin\Debug\netcoreapp3.1\repeticao4.dll
+E:\Repositorios\GitHub\projetcts_sleyersx\repeticao4\repeticao4\bin\Debug\netcoreapp3.1\repeticao4.pdb
+E:\Repositorios\GitHub\projetcts_sleyersx\repeticao4\repeticao4\obj\Debug\netcoreapp3.1\repeticao4.csprojAssemblyReference.cache
+E:\Repositorios\GitHub\projetcts_sleyersx\repeticao4\repeticao4\obj\Debug\netcoreapp3.1\repeticao4.AssemblyInfoInputs.cache
+E:\Repositorios\GitHub\projetcts_sleyersx\repeticao4\repeticao4\obj\Debug\netcoreapp3.1\repeticao4.AssemblyInfo.cs
+E:\Repositorios\GitHub\projetcts_sleyersx\repeticao4\repeticao4\obj\Debug\netcoreapp3.1\repeticao4.csproj.CoreCompileInputs.cache
+E:\Repositorios\GitHub\projetcts_sleyersx\repeticao4\repeticao4\obj\Debug\netcoreapp3.1\repeticao4.dll
+E:\Repositorios\GitHub\projetcts_sleyersx\repeticao4\repeticao4\obj\Debug\netcoreapp3.1\repeticao4.pdb
+E:\Repositorios\GitHub\projetcts_sleyersx\repeticao4\repeticao4\obj\Debug\netcoreapp3.1\repeticao4.genruntimeconfig.cache
