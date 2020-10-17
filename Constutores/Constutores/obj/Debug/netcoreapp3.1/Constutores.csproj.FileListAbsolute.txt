@@ -1,0 +1,12 @@
+E:\Repositorios\GitHub\projetcts_sleyersx\Constutores\Constutores\bin\Debug\netcoreapp3.1\Constutores.exe
+E:\Repositorios\GitHub\projetcts_sleyersx\Constutores\Constutores\bin\Debug\netcoreapp3.1\Constutores.deps.json
+E:\Repositorios\GitHub\projetcts_sleyersx\Constutores\Constutores\bin\Debug\netcoreapp3.1\Constutores.runtimeconfig.json
+E:\Repositorios\GitHub\projetcts_sleyersx\Constutores\Constutores\bin\Debug\netcoreapp3.1\Constutores.runtimeconfig.dev.json
+E:\Repositorios\GitHub\projetcts_sleyersx\Constutores\Constutores\bin\Debug\netcoreapp3.1\Constutores.dll
+E:\Repositorios\GitHub\projetcts_sleyersx\Constutores\Constutores\bin\Debug\netcoreapp3.1\Constutores.pdb
+E:\Repositorios\GitHub\projetcts_sleyersx\Constutores\Constutores\obj\Debug\netcoreapp3.1\Constutores.AssemblyInfoInputs.cache
+E:\Repositorios\GitHub\projetcts_sleyersx\Constutores\Constutores\obj\Debug\netcoreapp3.1\Constutores.AssemblyInfo.cs
+E:\Repositorios\GitHub\projetcts_sleyersx\Constutores\Constutores\obj\Debug\netcoreapp3.1\Constutores.csproj.CoreCompileInputs.cache
+E:\Repositorios\GitHub\projetcts_sleyersx\Constutores\Constutores\obj\Debug\netcoreapp3.1\Constutores.dll
+E:\Repositorios\GitHub\projetcts_sleyersx\Constutores\Constutores\obj\Debug\netcoreapp3.1\Constutores.pdb
+E:\Repositorios\GitHub\projetcts_sleyersx\Constutores\Constutores\obj\Debug\netcoreapp3.1\Constutores.genruntimeconfig.cache

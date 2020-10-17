@@ -1,0 +1,13 @@
+E:\Repositorios\GitHub\projetcts_sleyersx\GerarDigitoEAN\GerarDigitoEAN\bin\Debug\netcoreapp3.1\GerarDigitoEAN.exe
+E:\Repositorios\GitHub\projetcts_sleyersx\GerarDigitoEAN\GerarDigitoEAN\bin\Debug\netcoreapp3.1\GerarDigitoEAN.deps.json
+E:\Repositorios\GitHub\projetcts_sleyersx\GerarDigitoEAN\GerarDigitoEAN\bin\Debug\netcoreapp3.1\GerarDigitoEAN.runtimeconfig.json
+E:\Repositorios\GitHub\projetcts_sleyersx\GerarDigitoEAN\GerarDigitoEAN\bin\Debug\netcoreapp3.1\GerarDigitoEAN.runtimeconfig.dev.json
+E:\Repositorios\GitHub\projetcts_sleyersx\GerarDigitoEAN\GerarDigitoEAN\bin\Debug\netcoreapp3.1\GerarDigitoEAN.dll
+E:\Repositorios\GitHub\projetcts_sleyersx\GerarDigitoEAN\GerarDigitoEAN\bin\Debug\netcoreapp3.1\GerarDigitoEAN.pdb
+E:\Repositorios\GitHub\projetcts_sleyersx\GerarDigitoEAN\GerarDigitoEAN\obj\Debug\netcoreapp3.1\GerarDigitoEAN.csprojAssemblyReference.cache
+E:\Repositorios\GitHub\projetcts_sleyersx\GerarDigitoEAN\GerarDigitoEAN\obj\Debug\netcoreapp3.1\GerarDigitoEAN.AssemblyInfoInputs.cache
+E:\Repositorios\GitHub\projetcts_sleyersx\GerarDigitoEAN\GerarDigitoEAN\obj\Debug\netcoreapp3.1\GerarDigitoEAN.AssemblyInfo.cs
+E:\Repositorios\GitHub\projetcts_sleyersx\GerarDigitoEAN\GerarDigitoEAN\obj\Debug\netcoreapp3.1\GerarDigitoEAN.csproj.CoreCompileInputs.cache
+E:\Repositorios\GitHub\projetcts_sleyersx\GerarDigitoEAN\GerarDigitoEAN\obj\Debug\netcoreapp3.1\GerarDigitoEAN.dll
+E:\Repositorios\GitHub\projetcts_sleyersx\GerarDigitoEAN\GerarDigitoEAN\obj\Debug\netcoreapp3.1\GerarDigitoEAN.pdb
+E:\Repositorios\GitHub\projetcts_sleyersx\GerarDigitoEAN\GerarDigitoEAN\obj\Debug\netcoreapp3.1\GerarDigitoEAN.genruntimeconfig.cache
