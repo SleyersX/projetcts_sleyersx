@@ -20,11 +20,9 @@ namespace Problema1 {
              y.B = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
              y.C = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 
-            double p = (x.A + x.B + x.C) / 2.0;
-            double areaX = Area(p, x.A, x.B, x.C);
+            double areaX = x.Area();
 
-            p = (y.A + y.B + y.C) / 2.0;
-            double areaY = Area(p, y.A, y.B, y.C);
+            double areaY = y.Area();
 
             Console.WriteLine("Área de X = " + areaX.ToString("F4", CultureInfo.InvariantCulture));
             Console.WriteLine("Área de Y = " + areaY.ToString("F4", CultureInfo.InvariantCulture));

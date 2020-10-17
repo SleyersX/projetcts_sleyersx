@@ -1,0 +1,12 @@
+E:\Repositorios\GitHub\projetcts_sleyersx\Static\Static\bin\Debug\netcoreapp3.1\Static.exe
+E:\Repositorios\GitHub\projetcts_sleyersx\Static\Static\bin\Debug\netcoreapp3.1\Static.deps.json
+E:\Repositorios\GitHub\projetcts_sleyersx\Static\Static\bin\Debug\netcoreapp3.1\Static.runtimeconfig.json
+E:\Repositorios\GitHub\projetcts_sleyersx\Static\Static\bin\Debug\netcoreapp3.1\Static.runtimeconfig.dev.json
+E:\Repositorios\GitHub\projetcts_sleyersx\Static\Static\bin\Debug\netcoreapp3.1\Static.dll
+E:\Repositorios\GitHub\projetcts_sleyersx\Static\Static\bin\Debug\netcoreapp3.1\Static.pdb
+E:\Repositorios\GitHub\projetcts_sleyersx\Static\Static\obj\Debug\netcoreapp3.1\Static.AssemblyInfoInputs.cache
+E:\Repositorios\GitHub\projetcts_sleyersx\Static\Static\obj\Debug\netcoreapp3.1\Static.AssemblyInfo.cs
+E:\Repositorios\GitHub\projetcts_sleyersx\Static\Static\obj\Debug\netcoreapp3.1\Static.csproj.CoreCompileInputs.cache
+E:\Repositorios\GitHub\projetcts_sleyersx\Static\Static\obj\Debug\netcoreapp3.1\Static.dll
+E:\Repositorios\GitHub\projetcts_sleyersx\Static\Static\obj\Debug\netcoreapp3.1\Static.pdb
+E:\Repositorios\GitHub\projetcts_sleyersx\Static\Static\obj\Debug\netcoreapp3.1\Static.genruntimeconfig.cache

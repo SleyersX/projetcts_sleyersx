@@ -1,0 +1,13 @@
+E:\Repositorios\GitHub\projetcts_sleyersx\Produto\Produto\bin\Debug\netcoreapp3.1\Produto.exe
+E:\Repositorios\GitHub\projetcts_sleyersx\Produto\Produto\bin\Debug\netcoreapp3.1\Produto.deps.json
+E:\Repositorios\GitHub\projetcts_sleyersx\Produto\Produto\bin\Debug\netcoreapp3.1\Produto.runtimeconfig.json
+E:\Repositorios\GitHub\projetcts_sleyersx\Produto\Produto\bin\Debug\netcoreapp3.1\Produto.runtimeconfig.dev.json
+E:\Repositorios\GitHub\projetcts_sleyersx\Produto\Produto\bin\Debug\netcoreapp3.1\Produto.dll
+E:\Repositorios\GitHub\projetcts_sleyersx\Produto\Produto\bin\Debug\netcoreapp3.1\Produto.pdb
+E:\Repositorios\GitHub\projetcts_sleyersx\Produto\Produto\obj\Debug\netcoreapp3.1\Produto.AssemblyInfoInputs.cache
+E:\Repositorios\GitHub\projetcts_sleyersx\Produto\Produto\obj\Debug\netcoreapp3.1\Produto.AssemblyInfo.cs
+E:\Repositorios\GitHub\projetcts_sleyersx\Produto\Produto\obj\Debug\netcoreapp3.1\Produto.csproj.CoreCompileInputs.cache
+E:\Repositorios\GitHub\projetcts_sleyersx\Produto\Produto\obj\Debug\netcoreapp3.1\Produto.dll
+E:\Repositorios\GitHub\projetcts_sleyersx\Produto\Produto\obj\Debug\netcoreapp3.1\Produto.pdb
+E:\Repositorios\GitHub\projetcts_sleyersx\Produto\Produto\obj\Debug\netcoreapp3.1\Produto.genruntimeconfig.cache
+E:\Repositorios\GitHub\projetcts_sleyersx\Produto\Produto\obj\Debug\netcoreapp3.1\Produto.csprojAssemblyReference.cache
